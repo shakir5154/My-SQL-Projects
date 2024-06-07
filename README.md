@@ -27,7 +27,7 @@ The dataset includes fields like ORDERNUMBER, QUANTITYORDERED, PRICEEACH, etc.
 ## Overview
 This project involves analyzing data related to YouTube influencers. The dataset includes various attributes such as video views, video titles, channel URLs, creator names, genders, total subscribers, total channel views, video durations, languages, subtitles, and more. The analysis aims to provide insights into the relationship between different attributes and video views, including the impact of creator gender, video language, and video quality on viewership.
 
-Dataset
+## Dataset
 The dataset used in this analysis is sourced from the Youtube Influencer Analysis - Updated.csv file. It includes 24 columns with information on various aspects of YouTube videos and channels.
 
 ## Data Cleaning and Preprocessing
@@ -37,5 +37,5 @@ The data cleaning and preprocessing steps were performed using Python. Key steps
 - Converting data types to appropriate formats.
 - Handling missing values by filling or dropping as needed.
 ## SQL Analysis
-The cleaned data is then imported into a SQL Server database for further analysis. The following SQL queries are used to analyze the data:
+The cleaned data is then imported into a SQL Server database for further analysis.
 
