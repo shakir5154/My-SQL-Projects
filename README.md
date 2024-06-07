@@ -1,4 +1,4 @@
-# Auto Sales Data Analysis
+# 1. Auto Sales Data Analysis
 
 This repository contains SQL scripts to analyze Auto Sales data.
 
@@ -23,7 +23,7 @@ The dataset includes fields like ORDERNUMBER, QUANTITYORDERED, PRICEEACH, etc.
 - **Time-based Analysis**: Explore sales trends over time.
 
 
-# Youtube Influencer Analysis
+# 2. Youtube Influencer Analysis
 ## Overview
 This project involves analyzing data related to YouTube influencers. The dataset includes various attributes such as video views, video titles, channel URLs, creator names, genders, total subscribers, total channel views, video durations, languages, subtitles, and more. The analysis aims to provide insights into the relationship between different attributes and video views, including the impact of creator gender, video language, and video quality on viewership.
 
